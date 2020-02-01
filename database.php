@@ -1,7 +1,7 @@
 <?php
 
 $server   = "localhost";
-$username = "root";
+$username = "";
 $password = "";
 $database = "television";
 
